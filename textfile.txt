@@ -3,3 +3,4 @@ myname is pratik
 this is a skill activate video
 we are learning git
 my last name is raj
+sun is larger than the earth
