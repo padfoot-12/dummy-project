@@ -4,3 +4,4 @@ this is a skill activate video
 we are learning git
 my last name is raj
 moon is smaller than the earth
+sun is larger than the earth
